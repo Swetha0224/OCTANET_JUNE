@@ -1,0 +1,8 @@
+input:checked+h5{
+    text-decoration: line-through;
+    text-decoration-color: rgb(63, 53, 38);
+}
+input[type="checkbox"]
+{
+    margin: 20px;
+}
